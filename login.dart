@@ -33,7 +33,7 @@ class _HomeState extends State<Login> {
             children: <Widget>[
               Image(
                 image: NetworkImage(
-                    ''),
+                    'https://www.freepik.com/free-vector/futuristic-wavy-dots-background_11299382.htm#page=1&query=abstract%20background&position=9'),
                 height: MediaQuery.of(context).size.height,
                 width: MediaQuery.of(context).size.width,
                 fit: BoxFit.fill,
