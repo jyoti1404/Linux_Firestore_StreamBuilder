@@ -32,7 +32,7 @@ class _HomeState extends State<Signin> {
             children: <Widget>[
               Image(
                 image: NetworkImage(
-                    'https://wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-9.jpg'),
+                    'https://www.freepik.com/free-vector/futuristic-wavy-dots-background_11299382.htm#page=1&query=abstract%20background&position=9'),
                 height: MediaQuery.of(context).size.height,
                 width: MediaQuery.of(context).size.width,
                 fit: BoxFit.fill,
@@ -51,7 +51,7 @@ class _HomeState extends State<Signin> {
                   borderRadius: BorderRadius.circular(30),
                   image: DecorationImage(
                     image: NetworkImage(
-                        'https://wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-9.jpg'),
+                        'https://www.freepik.com/free-vector/futuristic-wavy-dots-background_11299382.htm#page=1&query=abstract%20background&position=9'),
                   ),
                 ),
               ),
